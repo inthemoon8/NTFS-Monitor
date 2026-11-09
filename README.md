@@ -1,5 +1,3 @@
-**[Download NTFS Monitor for Windows (x64)](https://github.com/inthemoon8/NTFS-Monitor/releases/latest/download/NTFS-Monitor-Setup.exe)**
-
 # NTFS Monitor
 
 NTFS Monitor is a Windows desktop utility that shows file creation, modification, and deletion on selected NTFS volumes in real time. It reads the NTFS USN Journal and groups related changes into a lightweight, chat-style overlay.
